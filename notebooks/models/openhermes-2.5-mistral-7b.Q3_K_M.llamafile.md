@@ -1,1 +1,0 @@
-I get the model here: [openhermes-2.5-mistral-7b.Q3_K_M.llamafile](https://huggingface.co/Bojun-Feng/OpenHermes-2.5-Mistral-7B-llamafile)
