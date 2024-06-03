@@ -30,3 +30,21 @@ The repository is organized as follows:
 - **`/data`**: Sample datasets used for model training and testing.
 - **`/scripts`**: Utility scripts for data processing, model training, and evaluation.
 - **`/docs`**: Additional documentation, including course notes and reference materials.
+<<<<<<< HEAD
+=======
+
+This structure ensures that all aspects of the learning and development process are well-documented and easily accessible.
+
+## Learning Outcomes
+
+By the end of the course, participants will:
+
+- Gain proficiency in using LlamaIndex to develop LLM applications.
+- Understand the RAG framework and its implementation.
+- Be capable of training and deploying custom AI models using LlamaIndex.
+- Develop hands-on experience through practical projects and exercises.
+
+For more information and to enroll in the course, you can visit the [course page on Udemy](https://www.udemy.com/course/llamaindex-develop-llm-powered-applications-with-llamaindex).
+
+Embark on this learning journey to master LlamaIndex and unlock the potential of LLMs in your projects!!
+>>>>>>> 4b7170a (updating readme file)
