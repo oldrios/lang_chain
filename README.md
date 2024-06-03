@@ -47,4 +47,4 @@ By the end of the course, participants will:
 
 For more information and to enroll in the course, you can visit the [course page on Udemy](https://www.udemy.com/course/llamaindex-develop-llm-powered-applications-with-llamaindex).
 
-Embark on this learning journey to master LlamaIndex and unlock the potential of LLMs in your projects!
+Embark on this learning journey to master LlamaIndex and unlock the potential of LLMs in your projects!!
